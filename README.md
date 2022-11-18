@@ -4,7 +4,7 @@ Time series forecasting is one of the most important topics in data science. Alm
 Multiple techiniques have been provided in this repository.
 
 The algorithms have been implemented using Python.
-Libraries used are:- Pandas,NumPy,Statsmodel,Autoarima,Matplot,Plotly.
+Libraries used are:- Pandas, NumPy, Statsmodel, Autoarima, Matplot, Plotly.
 
 SMA_SES_DES.py contains the code for EDA and then Simple Moving Average, Single Exponential Smoothing and Double Exponential Smoothing.
 
